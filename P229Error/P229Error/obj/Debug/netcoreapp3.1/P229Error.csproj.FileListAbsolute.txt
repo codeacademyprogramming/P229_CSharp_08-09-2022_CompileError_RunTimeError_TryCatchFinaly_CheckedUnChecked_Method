@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\bin\Debug\netcoreapp3.1\P229Error.exe
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\bin\Debug\netcoreapp3.1\P229Error.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\bin\Debug\netcoreapp3.1\P229Error.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\bin\Debug\netcoreapp3.1\P229Error.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\bin\Debug\netcoreapp3.1\P229Error.dll
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\bin\Debug\netcoreapp3.1\P229Error.pdb
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.dll
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.pdb
+C:\Users\hamid.mammadov\Desktop\P229\Class Work\P229Error\P229Error\obj\Debug\netcoreapp3.1\P229Error.genruntimeconfig.cache
